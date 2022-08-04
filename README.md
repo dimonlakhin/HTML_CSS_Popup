@@ -6,4 +6,4 @@
 
 [DEMO](https://dimonlakhin.github.io/html_css_popup/)
 
-#### knowledge must be shared
+##### Kottans - knowledge must be shared
